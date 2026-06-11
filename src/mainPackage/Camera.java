@@ -7,6 +7,10 @@ public class Camera {
 		System.out.println("Photo taken!");
 	}
 
+	public void deletePhoto() {
+		System.out.println("Photo deleted!");
+	}
+
 	public double getZoomLevel() {
 		return zoomLevel;
 	}
