@@ -9,3 +9,4 @@ Calling `rearrange_name("Turing, Alan")` will return `"Alan Turing"`
 
 # Example 2
 LaptopDemo: initiated by MoInhMinh, extended by MinhDN22
+Creator: MoInhMinh
